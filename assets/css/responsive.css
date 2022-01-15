@@ -1,0 +1,141 @@
+@media(max-width: 576px){
+    .header-icon.icon2{
+        padding-left: 20px !important;
+    }
+    .header-contnet.contnet2 p{
+        padding-right: 20px !important;
+    }
+    .header-contnet{
+        position: relative;
+    }
+    .respons-left{
+        position: absolute;
+        top: 245px;
+        left: 20px;
+    }
+    .about-main2.about2{
+        padding-top: 0px !important;
+    }
+    .about-main.about1{
+        padding-bottom: 15px !important;
+    }
+    .about-op h5{
+        font-size: 30px !important;
+    }
+    .car-content.max h5 {
+        font-size: 25px !important;
+        padding-right: 10px !important;
+        padding-left: 20px !important;
+    }
+    .car-content.max p{
+        font-size: 13px !important;
+        padding-right: 10px !important;
+        padding-left: 20px !important;
+    }
+    .port-icon2 p{
+        padding-left: 20px !important;
+    }
+    .some-header2 h5{
+        font-size: 25px !important;
+    }
+    .Product-con{
+        margin-left: 0px !important;
+    }
+    .footer-part.respons{
+        padding-right: 10px !important;
+    }
+    .footer-content h6{
+        padding-top: 30px !important;
+    }
+    .ope_p.para p{
+        margin-right: -280px !important;
+    }
+    .input-1 input {
+        width: 205px !important;
+    }
+    .port1-main-content.content1 p{
+        padding-right: 0px !important;
+    }
+    .port2-main-content.content2 p{
+        padding-right: 0px !important;
+    }
+    .port3-main-content.content3 p{
+        padding-right: 0px !important;
+    }
+    .port4-main-content.content4 p{
+        padding-right: 0px !important;
+    }
+    .port2-main-content.content5 p{
+        padding-right: 0px !important;
+    }
+    .loved {
+        display: none !important;
+    }
+    .love{
+        display: none !important;
+    } 
+}
+@media(max-width: 768px){
+    .header-contnet .respons-left p{
+        padding-right: 170px ;
+    }
+    .port1-main-content p{
+        padding-right: 170px !important;
+    }
+    .port2-main-content p{
+        padding-right: 170px !important;
+    }
+    .port3-main-content p{
+        padding-right: 170px !important;
+    }
+    .port4-main-content p{
+        padding-right: 170px !important;
+    }
+    .port5-main-content p{
+        padding-right: 170px !important;
+    }
+    .footer-part{
+        padding-left: 20px !important;
+    }
+}
+@media(max-width: 992px){
+    .header-contnet p{
+        padding-right: 490px !important;
+    }
+    .about-main{
+        padding-left: 0px !important;
+        padding-bottom: 10px !important;
+    }
+    .about-main2{
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+        padding-top: 0px !important;
+    }
+    .port-open-man{
+        padding-right: 180px !important;
+    }
+    .port-open-man4{
+        padding-right: 174px !important;
+    }
+}
+@media(max-width: 1200px){
+    .iphone{
+        display: none !important;
+    }
+    .header-contnet{
+        padding-left: 70px !important;
+    }
+    .header-icon{
+        padding-left: 70px !important;
+    }
+    .car-content h5{
+        font-size: 30px !important;
+        padding-right: 120px !important;
+        padding-left: 40px !important;
+    }
+    .car-content p{
+        font-size: 13px !important;
+        padding-right: 120px !important;
+        padding-left: 40px !important;
+    }
+}

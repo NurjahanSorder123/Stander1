@@ -1,0 +1,450 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+/* Header Part Start */
+
+.background{
+    background-image: url("../img/Bgimg/02-Take.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 700px;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.iphone{
+    position: absolute;
+    top: 230px;
+    right: 228px;
+}
+.header-icon{
+    padding-left: 215px;
+    padding-top: 50px;
+}
+.header-contnet{
+    padding: 230px 0;
+    padding-left: 215px;
+}
+.header-contnet h5{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 38px;
+    font-weight: 300;
+}
+.header-contnet p{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    padding-right: 796px;
+}
+/* Header Part End */
+/* About Part Start */
+.about-main{
+    padding:80px 0;
+    padding-left: 146px;
+}
+.about-main h5{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+    color: #222626;
+    font-weight: 300;
+}
+.about-main p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #959595;
+}
+.about-main2{
+    padding-left: 0;
+    padding:80px 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #959595;
+    padding-right: 146px;
+    padding-top: 200px;
+}
+/* About Part End */
+/* Portfoliuo Part Start */
+.port-part{
+    padding-bottom: 80px;
+}
+.port-open-man {
+    padding-left: 0px;
+    padding-right: 152px;
+    margin-left: 5px;
+    margin-right: -181px;
+}
+    /* Port Part 1 */
+.port-main1{
+    background: #f5979c;
+    padding: 40px;
+    padding-right: 5px;
+}
+.port1-main-content h5{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 300;
+}
+.port1-main-content p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    padding-right: 12px;
+}
+.port1-icon p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+}
+.port1-icon i{
+    color: #ffffff;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 4.5px;
+}
+    /* Port Part 2 */
+.port-main2{
+    background: #615e7d;
+    padding: 40px;
+    padding-right: 5px;
+}
+.port2-main-content h5{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 300;
+}
+.port2-main-content p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    padding-right: 12px;
+}
+.port2-icon p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+}
+.port2-icon i{
+    color: #ffffff;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 4.5px;
+}
+    /* Port Part 3 */
+.port-main3{
+    background-image: url("../img/Portfoleo/02-Take\ \(2\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 40px;
+    padding-right: 5px;
+}
+.port3-main-content h5{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 300;
+}
+.port3-main-content p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    padding-right: 12px;
+}
+.port3-icon p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+}
+.port3-icon i{
+    color: #ffffff;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 4.5px;
+}
+.love i{
+    padding-left: 140px;
+    font-size: 18px;
+    padding-top: 10px;
+    font-weight: 300;
+}
+    /* Port Part 4 */
+.port-main4{
+    background-image: url("../img/Portfoleo/02-Take.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 49px;
+    padding-right: 5px;
+}
+.port4-main-content h5{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 300;
+}
+.port4-main-content p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    padding-right: 100px;
+}
+.port4-icon p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+}
+.port4-icon i{
+    color: #ffffff;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 4.5px;
+}
+.loved i{
+    padding-left: 435px;
+    font-size: 18px;
+    padding-top: 10px;
+    font-weight: 300;
+}
+.port-open-man4 {
+    padding-left: 0px;
+    padding-right: 146px;
+    margin-left: 5px;
+    margin-right: -175px;
+}
+    /* Port Part 5 */
+.port-main5{
+    background: #81c99c;
+    padding: 40px;
+    padding-right: 5px;
+}
+/* Portfoliuo Part End */
+/* Some Thing Text Part Start */
+.some-part{
+    padding-bottom: 60px;
+}
+.some-header h5{
+    color: #222626;
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 40px;
+}
+
+.some-main h5{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    color: #67676d;
+    font-weight: 700;
+}
+.some-main p{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    color: #959595;
+    text-align: justify;
+}
+/* Some Thing Text Part End */
+/* Car Part Start */
+.car-part{
+    padding-top: 40px;
+}
+.car-header{
+    background-image: url("../img/car/02-Take\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 450px;
+    padding-bottom: 130px;
+}
+.car-content h5{
+    font-size: 45px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    padding-right: 823px;
+    padding-left: 200px;
+    font-weight: 300;
+}
+.car-content p{
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    padding-right: 860px;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+.port-icon2 p{
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+    padding-left: 200px;
+}
+.port-icon2 i{
+    color: #ffffff;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-top: 4.5px;
+}
+/* Car Part End */
+/* Some Text 2nd Start */
+.some-part2{
+    background: #81c99b;
+    padding-top: 125px;
+    padding-bottom: 125px;
+}
+.some-header2{
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+}
+.some-header2 h5{
+    font-size: 27px;
+    padding-bottom: 20px;
+}
+.some-main2 h5{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    font-weight: 700;
+}
+.some-main2 p{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    color: #ffffff;
+    text-align: justify;
+}
+
+.some-contnet h5{
+    color: #67676d;
+    font-family: 'Open Sans', sans-serif;
+}
+/* Some Text 2nd End */
+/* Product Part Start */
+.product-part{
+    background: #f6f7fa;
+    padding: 100px 0;
+}
+.Product-con{
+    padding: 30px 0;
+    padding-left: 32px;
+    margin-left: 56px;
+    padding-right: 40px;
+}
+.Product-con:hover{
+    background: #ffffff;
+    transition: 0.90s;
+}
+.Product-con:hover .div1{
+    background: #bd8bbf;
+    transition: 0.90s;
+}
+.Product-con .div1{
+    background: #e1e1e1;
+    width: 105px;
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    border-radius: 10px;
+    color: #ffffff;
+    padding-left: 10px;
+    font-weight: 700;
+}
+.Product-con .div-header h5{
+    font-size: 30px;
+    color: #2e3b4e;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    padding-top: 10px;
+}
+.Product-con .div-header p{
+    color: #8297a7;
+    font-size: 13px;
+}
+.Product-con .buy{
+    background: #81c99b;
+    padding: 12px;
+    width: 125px;
+    padding-left: 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.Product-con .icon{
+    font-size: 30px;
+    color: #c5c5c5;
+}
+.Product-con .icon i:nth-child(2){
+    padding-left: 15px;
+}
+/* Product Part End */
+/* Footer part Start */
+.footer-part{
+    background: #192331;
+    padding: 80px 100px;
+}
+.footer-content h6{
+    color: #f6f7fa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    padding-bottom: 19px;
+}
+.footer-content p{
+    color: #f6f7fa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+.dwon-con{
+    padding-top: 40px;
+}
+.show-dwon .con-1 h6{
+    color: #f6f7fa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+}
+.show-dwon .line li a{
+    color: #f6f7fa;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+.show-dwon .line li{
+    list-style-type: none;
+}
+.line{
+    padding-left:  0rem;
+    padding-top: 10px;
+}
+.text{
+    width: 400px;
+    padding: 13px 210px;
+}
+.ope_p{
+    color: #57697f;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    margin-right: 277px;
+    padding-top: 13px;
+}
+.input-1 input{
+    width: 400px;
+    padding: 21px;
+    outline: none;
+    border: none;
+}
+.input-2 input{
+    width: 70px;
+    padding: 14.5px;
+    background: #81c99b;
+    outline: none;
+    border: none;
+    font-size: 25px;
+    color: #f8fcf9;
+}
+/* Footer part End */
